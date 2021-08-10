@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "470256939098",
+    "project_id": "jogo-asc-attack",
+    "storage_bucket": "jogo-asc-attack.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:470256939098:android:f396b3ebb255e4bab6e863",
+        "android_client_info": {
+          "package_name": "com.Portal10.Info.ASCAttack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "470256939098-klh8qfn32n20gq15milb8lg43jrspilj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzVpdExS7tWM-qMP29pYGfl0PKNdMNFuc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "470256939098-klh8qfn32n20gq15milb8lg43jrspilj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:470256939098:android:75750e684cfee774b6e863",
+        "android_client_info": {
+          "package_name": "com.Portal10.Info.ASCdaSorte"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "470256939098-klh8qfn32n20gq15milb8lg43jrspilj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzVpdExS7tWM-qMP29pYGfl0PKNdMNFuc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "470256939098-klh8qfn32n20gq15milb8lg43jrspilj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
